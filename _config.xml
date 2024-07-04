@@ -1,0 +1,8 @@
+# Site settings
+title: The S&S blog
+author:
+  name: Claude Bolduc
+description: Blogging about software analysis for Safety and Security (S&S)
+
+# Build settings
+theme: jekill-theme-cayman
