@@ -5,4 +5,4 @@ author:
 description: "Blogging about software analysis for Safety and Security (SS)"
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minima
