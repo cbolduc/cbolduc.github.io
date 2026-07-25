@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Welcome to the Safety and Security (SS) blog! Enjoy reading!
+Welcome to the Safety and Security (SnS) blog! Enjoy reading!
