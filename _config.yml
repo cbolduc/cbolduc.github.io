@@ -2,7 +2,7 @@
 title: "The SS blog"
 author:
   name: Claude Bolduc
-description: "Blogging about software analysis for Safety and Security (SS)"
+description: "Blogging about software analysis for Safety and Security (SnS)"
 
 # Build settings
 remote_theme: jekyll/minima
