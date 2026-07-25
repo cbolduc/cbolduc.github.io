@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-The SS blog is written by Claude Bolduc.
+The SnS blog is written by Claude Bolduc.
